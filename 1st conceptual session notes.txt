@@ -1,0 +1,4 @@
+1. ami jodi C chara onno kono drive a project khulte chai tahole amar shei drive a jeye then folder khule upore url a click kore then url
+   ta delete kore oi jaygay cmd likhle cmd promt a oi file path ta eshe porbe and then code . likhle Vs code a folder ta open hoye jabe.
+
+2. 
