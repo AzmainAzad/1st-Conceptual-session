@@ -1,4 +1,57 @@
 1. ami jodi C chara onno kono drive a project khulte chai tahole amar shei drive a jeye then folder khule upore url a click kore then url
    ta delete kore oi jaygay cmd likhle cmd promt a oi file path ta eshe porbe and then code . likhle Vs code a folder ta open hoye jabe.
 
-2. 
+2. icons8.com theke search diye onek icon paoa jay. oigula use korte hole html file a link favicon use kore then icon select kore oitar
+   adress diye dile hobe or new tab a icon ta open kore then ekta file a image ta download kore oi image er path ta bole dileo hobe.
+
+3. windows+v click korle new ekta clipboard open hobe jekhane ami shob kisu paste kore save kore rekhe dite parbo.
+
+4. Github a file open korle take repository bole.
+
+5. Git init korle jei project folder tar moddhe kaaj hocche oikhane .git name ekta folder create hobe. jodi kono karone .git dekha na 
+   jay tahole view option a giye show option a giye hidden icons ta check kore dite hobe jodi uncheck thake.
+
+6. Git origin hishabe Github a https ar ssh duita link er moddhe https link ta copy korte hobe.
+
+7. git branch -m"branch name" command use kore branch name change kora jay.
+
+8. inline css er power shobche beshi. Then internal css er and then external css er.
+
+9. jodi external css er link ta internal css er niche deya hoy tahole abar external css er power beshi hobe.
+
+10. text-decoration hishabe underline, overline and line-through use kora jay.
+
+11. onekshomoy width dile and then page choto korle dekha jay je lekha bahire choila gese. Eita prevent korar jonno amra max-width use
+    korte pari. max-width use korle jayga thakle width jototuku deya hobe oita pabe ar naile pura 100% jayga nibe.
+
+12. Margin auto kore content ke majhamajhi ana jaay.
+
+13. normally inline element top and bottom margin and padding nite pare na.
+
+14. just special duita inline element ase: button ar image jeigula tey kono problem hoy na margin and padding and height niye.
+
+15. kono inline element key majhamajhi nite hole oita ekta div er moddhe niye then text-align center kore dilei hobe.
+    button er khetreo eita kaaj korbe.
+
+16. background-image: linear-gradient use korar rules hocche(to top, 1st color, 2nd color) evabe likhte hobe.
+
+17. iccha korle background image er linear- gradient a jeye color er degree change korte hobe. oi khetre rules hocche 
+    (deg, 1st color, 2nd color) use kora.
+
+18. jodi 1st color er naam deya hoy ar second ta just transparent likha hoy tahole ekta abha create hobe.
+
+19. background image er content jodi center a ante hoy tahole background-position center korlei hobe.
+
+20. clip-path css website a jeye then nijer iccha moto figure make kore oitar clip path er code ta copy kore css a use korle hobe.
+
+21. fonts.google.com a jeye font select kore get embed code a click korte hobe then jodi link html file a dei tahole css connect korar
+    link er upore dite hobe. Ar jodi css a dite chai tahole css file import kora link ta copy kore dibo and then jei tag a use korte 
+    chai font ta oikhane font-family ta use korte hobe google theke copy kore.
+
+22. hover effect add korar example hocche .btn: hover{}. Transition jodi use kora hoy btn class a tahole hover er transition time add
+    hobe ar jodi btn class a cursor pointer use kori tahole haat er moto kore cursor ashbe.
+
+23. jodi github theke share kora code copy kore nijer project folder a ante hoy tahole vs code a jeye age github theke <>code a jeye
+    https link ta copy kore then oita vs code er terminal a jeye git clone name a command dile amar ekta folder create hobe oi path a.
+    Then oi folder a giye .git folder ta delete kore nijer moto git a connect korte hobe notun kore.
+
